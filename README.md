@@ -92,8 +92,8 @@ This repository was created to:
 
 ## Technologies
 
-- Python 3
-- Google Colab
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
